@@ -8,5 +8,5 @@
 4. 刺客信条
 
 
-#简单版NHK新闻
+# 简单版NHK新闻
 https://www3.nhk.or.jp/news/easy/
